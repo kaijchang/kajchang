@@ -1,1 +1,8 @@
-### ➡️ [https://kaijchang.com](https://kaijchang.com)
+![Hi, I'm Kai Chang](https://github.com/kajchang/kajchang/raw/main/header.png)
+
+- 👋 Hi, my name is Kai Chang 🇨🇳🇰🇷
+- 🌫️ I grew up in San Francisco.
+- 🐶 I am a Founding Engineer at [PetCode](https://petcodeusa.com), a pet-tech startup.
+- 🏫 I attend Vassar College ('25) in New York.
+
+Check out [kaijchang.com](https://kaijchang.com)!
